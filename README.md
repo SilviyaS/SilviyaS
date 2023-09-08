@@ -14,6 +14,4 @@ LinkedIn - https://www.linkedin.com/in/silviya-s-088191181/
 GitHub - https://github.com/SilviyaS
 Medium - https://medium.com/@silviyafrontenddev
 Leetcode - https://leetcode.com/Silviya_7/
-Portfolio - For portfolio connect with me.
-
-
+Portfolio - For a portfolio connect with me.
